@@ -23,3 +23,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pritam-tu&show_icons=true&locale=en&layout=compact" alt="pritam-tu" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pritam-tu&show_icons=true&locale=en" alt="pritam-tu" /></p>
+###
+
+![Snake animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
