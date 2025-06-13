@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [https://pritam-tu.github.io/pritam_56/](https://pritam-tu.github.io/pritam_56/)
 
-- 👨‍💻 All of my projects are available at [https://pritam-tu.github.io/pritam_56/](https://pritam-tu.github.io/pritam_56/)
+- 👨‍💻 All of my projects are available at [https://pritam-tu.github.io/pritam_56/](https://stackblitz.com/@PRITAM-TU)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
