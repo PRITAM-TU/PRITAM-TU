@@ -10,10 +10,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/pritam tung" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pritam tung" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/pritam-t-545866266/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pritam tung" height="30" width="40" /></a>
 <a href="https://fb.com/pritam tung" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="pritam tung" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/coding xyz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="coding xyz" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/pritam tung" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="pritam tung" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/12peiram/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="pritam tung" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
